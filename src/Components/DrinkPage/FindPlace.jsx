@@ -17,13 +17,13 @@ function FindPlace() {
               placeholder="Oshodi"
               className="w-[100%]"
             >
-              <AutocompleteItem value="Hablu Programmer" className="text-black">
-                Oshodi
+              <AutocompleteItem value="ostad" className="text-black">
+                Ostad
               </AutocompleteItem>
               <AutocompleteItem value="Hablu Programmer" className="text-black">
                 Hablu Programmer
               </AutocompleteItem>
-              <AutocompleteItem value="Hablu Programmer" className="text-black">
+              <AutocompleteItem value="Stack Learner" className="text-black">
                 Stack Learner
               </AutocompleteItem>
             </Autocomplete>
@@ -56,13 +56,13 @@ function FindPlace() {
               placeholder="Chinese"
               className="w-[100%]"
             >
-              <AutocompleteItem value="Hablu Programmer" className="text-black">
-                Oshodi
+              <AutocompleteItem value="ostad" className="text-black">
+            Ostad
               </AutocompleteItem>
               <AutocompleteItem value="Hablu Programmer" className="text-black">
                 Hablu Programmer
               </AutocompleteItem>
-              <AutocompleteItem value="Hablu Programmer" className="text-black">
+              <AutocompleteItem value="stack learner" className="text-black">
                 Stack Learner
               </AutocompleteItem>
             </Autocomplete>
@@ -74,13 +74,13 @@ function FindPlace() {
               placeholder="2"
               className="w-[100%]"
             >
-              <AutocompleteItem value="Hablu Programmer" className="text-black">
-                Oshodi
+              <AutocompleteItem value="ostad" className="text-black">
+                Ostad
               </AutocompleteItem>
               <AutocompleteItem value="Hablu Programmer" className="text-black">
                 Hablu Programmer
               </AutocompleteItem>
-              <AutocompleteItem value="Hablu Programmer" className="text-black">
+              <AutocompleteItem value="stocklearner" className="text-black">
                 Stack Learner
               </AutocompleteItem>
             </Autocomplete>
